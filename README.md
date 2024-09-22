@@ -6,6 +6,7 @@
 - Jairo Antonio Caro Vanegas
 
 **Entendimiento inicial de datos:**
+
 Desde el notebook Taller new york listing se genero el entedimiento del dataset listings donde se escogieron las variables de "price, room_type, number_of_reviews, neighbourhood_group_cleansed,minimum_nights", para los casos de las variables cuantitativas se calcularon los respectivos percentiles con el fin de eliminar la informacion que contara con outlayers de datos.
 
 **Resumen / conclusiones:**  
