@@ -20,7 +20,10 @@ Con las tres fuentes de datos unidas se analizaran las principales cualidades a 
 El resumen del analisis de informacion quedo depositado en el archivo pdf "Analisis de inversion" que se encuntra en el repositorio
   
 **Dependencias:**  
-Necesitaremos los datasets de listings,calendar y reviews para la ciudad de new york
+Necesitaremos los datasets de listings,calendar y reviews para la ciudad de new york, por el tamaño del data set es necesario descargar los archivos de la iamgen del sifguiente link 
+https://insideairbnb.com/get-the-data/
+![image](https://github.com/user-attachments/assets/5088d11e-a604-4042-9cb0-4b0fe212261e)
+
 
   
 **Instrucciones de ejecución:**  
