@@ -13,7 +13,7 @@ Desde el notebook Taller new york listing se genero el entedimiento del dataset 
 
 Para la estrategia inicial de datos calcularemos la cantidad de reservas por apartamento para poder tener un mayor panorama de que tipos de apartamentos, sectores y de las clasificacions son mayormente reservados, con esto podremos tener una conclusion inicial de las mejores opciones de inversion por caracteristicas de apartamentos, luego generaremos unas recomendaciones con base en la reputacion previa del inmueble, para esto se genero un conteo de reseñas por apartamento, en este punto entraremos a validar si dependiendo del numero de reseñas los usuarios toman la decision de alquilar un departamento. 
 
-Con las tres fuentes de datos unidas se analizaran las principales cualidades a tener encuenta el la inversion como lo son zona, barrio, tipo de habitacion, numero de baño, caracteristicas principales, precio y  minimo de noches, principalmente estas caracteristicas se analizaran en funcion del numero de alquileres de este año y el proximo ya agendados.
+Con las tres fuentes de datos unidas se analizaran las principales cualidades a tener encuenta el la inversion como lo son zona, barrio, tipo de habitacion, numero de baño, caracteristicas principales, precio y  minimo de noches, principalmente estas caracteristicas se analizaran en funcion del numero de alquileres por dia de este año y el proximo ya agendados.
 
 
 **Generacion de resultados:**  
